@@ -1,0 +1,150 @@
+@charset "utf-8";
+/* CSS Document */
+.body {
+	margin:0px;
+	padding:0px;
+	background-color: #f7f5f3;
+}
+.container{
+	margin:0px auto 0px auto;
+	padding:0px;
+	width:1225px;
+	height:773px;
+	}
+/*导航*/
+.link{
+	margin:0px;
+	padding:0px;
+	width:1225px;
+	height:79px;
+	}
+.links{
+	margin:0px 0px 0px 100px;
+	padding:0px;
+	font-size:14px;
+	color:#5f8094;
+	font-family:"宋体", Arial;
+	}
+.links a:link,.links a:visited{
+	text-decoration:none;
+	color:#5f8094;
+	}
+.links a:hover{
+	color:#F00;
+	}
+/*下拉菜单*/
+.down{
+	margin:-4px 0px 0px 0px;
+	padding:0px;
+	width:1225px;
+	height:442px;
+	background:url(../img/bg1.png) repeat-x;
+	position:absolute;
+	}	
+.work{
+	margin:20px 0px 0px 485px;
+	padding:0px;
+	list-style-type:none;
+	float:left;
+	}	
+.work li{
+	margin:0px;
+	padding:0px;
+	line-height:25px;
+	font-size:14px;
+	color:#fff;
+	}
+.work li a:link,.work li a:visited{
+	text-decoration:none;
+	color:#fff;
+	}
+.work li a:hover{
+	text-decoration:underline;
+	}	
+.work li.spic{
+	margin:0px 0px 5px 0px;
+	padding:0px;
+	font-size:18px;
+	font-family:"微软雅黑";
+	color:#fff;
+	}	
+.work li.spic a:link,.work li.spic a:visited{
+	text-decoration:none;
+	color:#fff;
+	}	
+	
+.work2{
+	margin:20px 0px 0px 40px;
+	padding:0px;
+	list-style-type:none;
+	float:left;
+	}	
+.work2 li{
+	margin:0px;
+	padding:0px;
+	line-height:25px;
+	font-size:18px;
+	color:#fff;
+	font-family:"微软雅黑";
+	}
+.work2 li a:link,.work2 li a:visited{
+	text-decoration:none;
+	color:#fff;
+	}
+.work2 li a:hover{
+	text-decoration:underline;
+	}	
+.work2 li img{
+	margin:10px 0px 0px 0px;
+	padding:0px;
+	border:none;
+	}
+	
+.work3{
+	margin:20px 0px 0px 40px;
+	padding:0px;
+	list-style-type:none;
+	float:left;
+	}	
+.work3 li{
+	margin:0px;
+	padding:0px;
+	line-height:25px;
+	font-size:14px;
+	color:#fff;
+	}
+.work3 li a:link,.work3 li a:visited{
+	text-decoration:none;
+	color:#fff;
+	}
+.work3 li a:hover{
+	text-decoration:underline;
+	}	
+.work3 li.spic{
+	margin:0px 0px 5px 0px;
+	padding:0px;
+	font-size:18px;
+	font-family:"微软雅黑";
+	color:#fff;
+	}	
+.work3 li.spic a:link,.work3 li.spic a:visited{
+	text-decoration:none;
+	color:#fff;
+	}	
+/*正文*/
+.cont{
+	margin:10px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	}
+/*底部*/
+.footer{
+	margin:10px 0px 0px 0px;
+	padding:0px;
+}
+.footer p{
+	margin:5px 0px 0px 0px;
+	padding:0px;
+	font-size:10px;
+	color:#666666;
+	font-family:Arial, Helvetica, sans-serif;
+	}
